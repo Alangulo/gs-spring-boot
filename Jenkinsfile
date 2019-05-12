@@ -14,7 +14,7 @@ node {
 
          cd target
 
-         cp ../src/main/resources/web.config web.config
+         cp ..complete/src/main/java/hello/web.config web.config
 
          cp todo-app-java-on-azure-1.0-SNAPSHOT.jar app.jar 
 
